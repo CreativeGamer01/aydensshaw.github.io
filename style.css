@@ -17,7 +17,7 @@ border: 0;
 /* This is a CSS comment.
 Always comment your work to explain what you're doing */ 
 body {
-font-family: arial, sans-serif;
+font-family: 'Caladea', serif;
 }
 
 /*
@@ -42,7 +42,7 @@ h1 {
    } 
 h2 {
     font-size: 30px;
-    font-family: 'Rubik', sans-serif; 
+    font-family: 'PT Sans Narrow', sans-serif; 
     text-transform: uppercase;
    }
 h1,h2,p,li {
@@ -51,7 +51,7 @@ h1,h2,p,li {
 
 
 .item {
-       background-color: lightblue;
+       background-color: darkgrey;
        padding:1%;
        margin:1%; 
        margin-bottom: 20px; 
@@ -96,7 +96,7 @@ background: orange;
 }
 body {
 background-color: black;
-background-image: url("BG2.jpg"); 
+background-image: url("HLYE26o.png"); 
 background-repeat: no-repeat; 
 background-size: cover;
 }
